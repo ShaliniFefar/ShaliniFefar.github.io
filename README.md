@@ -2,4 +2,4 @@
 
 ## Click on below link to play!!
 
-[Click me To play game] (https://shalinifefar.github.io)
+[Click me To play game](https://shalinifefar.github.io)
